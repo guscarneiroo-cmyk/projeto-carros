@@ -16,6 +16,7 @@ public class Controller1 {
         this.service1 = service1;
     }
 
+    // chama o método getAllVeiculo da classe service
     @GetMapping("/veiculos")
     public List<Veiculo> listVeiculo() {
         return service1.getAllVeiculo();
