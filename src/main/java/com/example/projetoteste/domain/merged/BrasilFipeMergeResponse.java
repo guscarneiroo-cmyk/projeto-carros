@@ -10,7 +10,6 @@ public class BrasilFipeMergeResponse {
     private String codigoFipe;
     private String vehicleType;
     private String yearId;
-
     private VeiculoMenorValorDTO brasil;
     private FipeAPIresponse parallelum;
 

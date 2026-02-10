@@ -1,6 +1,5 @@
 package com.example.projetoteste.domain.dto;
 
-import com.example.projetoteste.controller.FipeApiController;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
