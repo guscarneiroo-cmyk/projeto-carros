@@ -8,7 +8,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-public class Controller1 {
+public class
+Controller1 {
 
     private final Service1 service1;
 
